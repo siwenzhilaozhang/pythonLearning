@@ -50,5 +50,4 @@ class Restaurant():
 
 #9.3
 print "9-6"
-class IceCreamStand():
-
+#class IceCreamStand():
